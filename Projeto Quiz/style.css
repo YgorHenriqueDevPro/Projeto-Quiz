@@ -1,0 +1,188 @@
+/* corpo */
+html,body{
+    min-height: 100%;
+}
+body{
+    padding: 0;
+    margin: 0;    
+}
+
+
+/*Cabeçalho*/
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(40, 233, 56);
+    color: #6220b8;
+    padding: 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
+/* Link Start Game*/
+
+div a{
+    background-color: #4ee95a;
+    text-align: center;
+    font-family: arial;
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: 700;
+    margin: 12px;    
+    cursor: pointer;     
+    border-radius: 9px;
+    transition: 0.5s;
+    display: inline-block;
+    padding: 19px; 
+    color: rgb(30, 66, 29);    
+}
+    
+a:hover{    
+    background-color: #b4f5af;   
+    text-decoration: none;    
+}
+
+/* Parágrafo das perguntas*/
+
+p{
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline-block;
+    color: rgb(77, 64, 64);
+    margin: 30px;
+}
+
+
+/* Links das perguntas*/
+
+
+table a{
+    background-color: rgb(40, 146, 132);
+    color: #cecbe2;
+    text-align: center;
+    font-family:arial;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 10px;    
+    cursor: pointer;     
+    border-radius: 9px;
+    transition: 0.5s;
+    display: inline-block;
+    padding: 20px; 
+    
+}
+
+table a:hover{    
+      
+    text-decoration: none;
+    background-color: #125257 
+}
+
+/* Pagina de erro*/
+
+.pg_erro{   
+    text-align: center;
+    display:inline-block;
+}
+
+/* botão jogar novamente*/
+#jg_novo{
+    color: #1e1e20;
+    text-decoration: none;  
+}
+/* botão página inicial*/
+
+#pg_inicial{
+    color: rgb(38, 41, 44);
+    text-decoration: none;
+}
+
+/* pontuação máxima da 6 pergunta*/
+.pt_max{    
+    font-family:'Lucida Sans';
+    font-size: 30px;
+    text-align: center;
+    color: rgb(13, 4, 94);
+}
+
+  /* informação de pontuação*/
+
+ h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: #cf0101;
+    font-size: 30px;
+    
+ }
+
+ /* h2 da frase de acerto*/
+
+ .frase_acerto{
+    color: #0a0b55;
+ }
+
+ .h1_erro{
+    font-family: Arial;
+    font-size: 15px;
+    padding: 0;
+    color: #cf0101;
+ }
+
+
+/* imagens de pontuação em estrela e boneco*/
+.pont_acerto{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container img {
+    width: 100%;
+    margin-bottom: 20px; 
+}
+#pont1{
+    width: 276px;
+    height: 70px;
+}
+#boneco{
+    width:190px; 
+    height:260px;
+}
+
+/* imagem troféu final*/
+
+#img_final{
+    display: flex;
+    justify-content: center;
+}
+
+
+#menu_inicial{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+/* Rodapé*/
+ 
+ footer{
+    position: absolute;
+    bottom: 0;
+    font-family: Arial;
+    background-color: rgb(117, 136, 110);
+    color: #0c0c0c;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 100px;
+}
+    

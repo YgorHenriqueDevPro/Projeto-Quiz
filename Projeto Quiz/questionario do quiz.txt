@@ -1,0 +1,34 @@
+O que significa a sigla "PDF"?
+A) Personal Data File
+B) Portable Document Format
+C) Public Domain Foundation
+D) Personal Digital Filing
+Resposta: B) Portable Document Format
+
+Qual o componente do computador que armazena dados permanentemente?
+A) Placa de vídeo
+B) Memória RAM
+C) Disco rígido
+D) Processador
+Resposta: C) Disco rígido
+
+Qual é o comando utilizado para abrir o "Prompt de Comando" no Windows?
+A) cmd
+B) ctrl
+C) alt
+D) shift
+Resposta: A) cmd
+
+O que significa a sigla "HTML"?
+A) Hyperlink Text Markup Language
+B) Hyper Text Markup Language
+C) Hyper Terminal Machine Language
+D) Home Tool Markup Language
+Resposta: B) Hyper Text Markup Language
+
+Qual o tipo de rede sem fio que permite transferir dados em uma distância curta?
+A) LAN
+B) WAN
+C) MAN
+D) PAN
+Resposta: D) PAN (Personal Area Network)
